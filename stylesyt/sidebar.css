@@ -10,11 +10,11 @@
 }
 .sidebar-link{
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 82px;
-  margin-bottom: 1px;
-  flex-direction: column;
+  margin-bottom: 1px ;
   cursor: pointer;
 }
 .sidebar-link:hover{
