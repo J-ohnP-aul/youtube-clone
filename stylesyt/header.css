@@ -63,10 +63,7 @@
   position: absolute;
   background-color: rgb(156, 152, 152);
   color: white;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 8px;
-  padding-right: 8px;
+  padding: 5px 8px;
   border-radius: 2px;
   font-family: arial;
   font-size: 12px;
@@ -81,7 +78,7 @@
 .youtube-apps-icon-container:hover .tooltip,
 .parent-userpic-container:hover .tooltip{
   opacity: 1;
-  transition: opacity 0.15s;
+  transition: opacity 1.15s;
 }
 .search-icon{
   height: 25px;
